@@ -1,4 +1,4 @@
-# 🏥 WhatsApp Bot para Clínica com IA — Node.js + Baileys + OpenRouter
+# 🏥 WhatsApp Bot para Clínica com IA - Node.js + Baileys + OpenRouter
 
 Bot de atendimento automático para WhatsApp com **menu interativo**, **fluxo de agendamento de consultas** e **assistente de IA** integrada via OpenRouter. Desenvolvido com Node.js e a biblioteca Baileys.
 
@@ -10,7 +10,7 @@ Bot de atendimento automático para WhatsApp com **menu interativo**, **fluxo de
 
 - ✅ Menu interativo com 4 opções
 - 📋 Fluxo completo de agendamento de consultas (especialidade → nome → data → horário)
-- 🤖 Modo IA — responde perguntas livres usando OpenRouter (modelos gratuitos)
+- 🤖 Modo IA - responde perguntas livres usando OpenRouter (modelos gratuitos)
 - 🔒 Whitelist de contatos autorizados (`ALLOWED_SENDERS`)
 - 🔄 Reconexão automática em caso de queda
 - 💬 Efeito visual de "Digitando..." antes da resposta da IA
@@ -159,9 +159,9 @@ const ALLOWED_SENDERS = [
 ## 📺 Vídeos Relacionados
 
 - [WhatsApp Bot Profissional 2026: Estrutura Anti-Ban com Baileys e Node.js](https://youtu.be/JkvbnQg2OWE)
-- [Chatbot de WhatsApp com IA (OpenRouter + Venom) – 100% Grátis](https://youtu.be/...)
-- [Como Criar um BOT para WhatsApp com Node.js (Menu + Atendimento Humano)](https://youtu.be/...)
-- [Bot do WhatsApp não conecta? Resolva o erro de QR Code em minutos!](https://youtu.be/...)
+- [Chatbot de WhatsApp com IA (OpenRouter + Venom) – 100% Grátis](https://youtu.be/_54Q-CXCns0)
+- [Como Criar um BOT para WhatsApp com Node.js (Menu + Atendimento Humano)](https://youtu.be/yLvagYwq7Ac)
+- [Bot do WhatsApp não conecta? Resolva o erro de QR Code em minutos!]([https://youtu.be/...](https://youtu.be/I89HRsriFFA)
 
 ---
 
